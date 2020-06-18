@@ -22,4 +22,4 @@ Repo for learning upload files (Local & Amazon S3) in TS Node.js
 
 Note: Original Video uses JavaScript
 
-> [!VIDEO https://www.youtube.com/embed/MkkbUfcZUZM]
+[![Upload de arquivos: back-end com NodeJS | Diego Fernandes](http://img.youtube.com/vi/MkkbUfcZUZM/0.jpg)](http://www.youtube.com/watch?v=MkkbUfcZUZM 'Upload de arquivos: back-end com NodeJS | Diego Fernandes')
