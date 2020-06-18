@@ -115,5 +115,9 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
+# Add NPM & Yarn lock files
+package-lock.json
+yarn.lock
+
 # Add tmp files
 tmp/uploads/*
