@@ -3,6 +3,7 @@ import morgan from 'morgan';
 import mongoose from 'mongoose';
 
 import routes from './routes';
+import endpoint from './config/endpoint';
 
 const app = express();
 
@@ -10,7 +11,7 @@ const app = express();
  * Database Setup
  */
 
-mongoose.connect('mongodb://localhost:27017/upload', {
+mongoose.connect(endpoint.MONGO_URL, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
